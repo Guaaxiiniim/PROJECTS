@@ -3,7 +3,7 @@ import time
 import yaml
 
 def main():
-    print("Dota 2 Auto Accept Script\nWritten by herope.\n")
+    print("Dota 2 Auto Accept Script\nWritten by Guaaxiiniim.\n")
     print("Reading config file...")
     with open("config.yaml", "r") as stream:
         try :
