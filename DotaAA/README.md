@@ -12,7 +12,7 @@ Windows ```run.bat```
 
 ## Config
 
-This script is previously configured. For better performance, take a screenshot, crop the accept button and replace the accept-eng.png
+This script is previously configured. For better performance, take a screenshot, crop the accept button and replace the accept.png
 
 **CHECK_INTERVAL** - time (secs) between each search.
 
